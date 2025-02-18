@@ -94,5 +94,3 @@ function reset() {
 }
 
 pickRandomNum();
-
-//리셋하면 기회가 다시 3번으로 안 돌아감
